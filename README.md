@@ -3,7 +3,7 @@
 Post-project prompts:
 
 1. Describe this project
-This project is supposed to help teach the basics of HTML
+<p>This project is supposed to help teach the basics of HTML</p>
 
 2. Skills demonstrated
 <ul>
