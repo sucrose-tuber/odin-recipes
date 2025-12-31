@@ -3,9 +3,18 @@
 Post-project prompts:
 
 1. Describe this project
+This project is supposed to help teach the basics of HTML
 
 2. Skills demonstrated
-
+<ul>
+    <li>HTML boilerplate (I memorized it)</li>
+    <li>linking images</li>
+    <li>absolute links</li>
+    <li>relative links</li>
+    <li>ordered and unordered lists</li>
+    <li>navigating the shell/command line</li>
+    <li>Github and Git commands</li>
+</ul>
 
 PHOTO CREDITS
 
